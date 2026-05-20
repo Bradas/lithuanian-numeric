@@ -1,7 +1,10 @@
 # Lietuviškas Mac klaviatūros išdėstymas su skaičių eile
+
 Windows dominavimo laikų nostalgijos įkvėptas layoutas, kur ą-ž yra ties skaičių eile, `⌥` (Option) grąžina skaičius, o `⌥` `⇧` (Option + Shift) leidžia pasiekti simbolius. Taip, kaip įpratome vaikystėje.
 
 Bet čia mes nesustojame! Su šia klaviatūra nebereikės googlinti įvairių simbolių, nes viskas, ko reikia šiais laikais, yra pasiekiama.
+
+[![Paremti per Revolut](https://img.shields.io/badge/Donate-Revolut-FF0055?style=for-the-badge&logo=revolut&logoColor=white)](https://revolut.me/adasb)
 
 ## 🚀 (Netikėtos) galimybės
 1.	Sena gera Windows dominavimo laikų skaitinė klaviatūra su `⌥` (Option). Nes nostalgija kaip ir įpročiai nemirtingi.
@@ -21,9 +24,7 @@ Bet čia mes nesustojame! Su šia klaviatūra nebereikės googlinti įvairių si
 
 Kurta su meile ir nuomone, tobulinta 10 metų asmeniniame naudojime, o dabar dalinamasi su jumis. Malonaus naudojimo!
 
-Taip pat kudos Ramūnui Blavaščiūnui už įkvėpimą!
-
-[![Donate](https://img.shields.io/badge/Donate-Revolut-blue?style=for-the-badge&logo=revolut)](https://revolut.me/adasb)
+[![Donate via Revolut](https://img.shields.io/badge/Donate-Revolut-FF0055?style=for-the-badge&logo=revolut&logoColor=white)](https://revolut.me/adasb)
 
 ---
 
@@ -149,3 +150,8 @@ Norėdami pasiekti šiuos simbolius, pirmiausia spauskite trigerį: `⌥` `⇧` 
 * `↵` return – `\`
 * `⌫` backspace – `]`
 * `⎋` escape – `[`
+
+### 🔢 Superskriptai ir subskriptai
+* **Superskriptai (`¹²³...`):** Skaičių eilė (`1`, `2`, `3` ir t.t.).
+
+* **Subskriptai (`₁₂₃...`):** Skaičių eilė nuspaudus `⇧` (Shift) (`1`, `2`, `3` ir t.t.).
