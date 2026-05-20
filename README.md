@@ -15,7 +15,7 @@ Bet čia mes nesustojame! Su šia klaviatūra nebereikės googlinti įvairių si
 6.	Final boss. `⌥` `⇧` `/` (Option + Shift + /) atrakina slaptą klaviatūrą, kur W A S D virsta rodyklėmis ↑ ← ↓ →, o skaičiai — superscriptais ir subskriptais.
 
 ## 🛠 Diegimas
-1.	**Atsisiųskite:** Pasiimkite naujausią .dmg failą iš Releases skilties.
+1.	**Atsisiųskite:** Pasiimkite naujausią [.dmg failą](https://github.com/Bradas/lithuanian-numeric/releases/download/v1.0.1/Lithuanian.Numeric.v1.0.1.dmg) iš Releases skilties.
 2.	**Įdiekite:** Atidarykite DMG ir nutempkite .bundle failą į Keyboard Layouts nuorodą.
 3.	**Aktyvuokite:**
  *	Atsijunkite ir vėl prisijunkite (Log out).
