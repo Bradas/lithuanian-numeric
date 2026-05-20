@@ -1,0 +1,25 @@
+{
+    "title": "Lithuanian – Numeric",
+    "background": "assets/dmg-background.tiff",
+    "window": {
+      "size": {
+        "width": 632,
+        "height": 454
+      }
+    },
+    "contents": [
+      { 
+        "x": 132, 
+        "y": 210, 
+        "type": "file", 
+        "path": "Lithuanian – Numeric.bundle" 
+      },
+      { 
+        "x": 502, 
+        "y": 210,
+        "type": "link", 
+        "path": "/Library/Keyboard Layouts/",
+        "name": "Keyboard Layouts"
+      }
+    ]
+  }

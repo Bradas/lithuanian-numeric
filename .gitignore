@@ -1,2 +1,7 @@
+# Build artifacts
+/build/
+*.dmg
+*.zip
+
+# OS junk
 .DS_Store
-*.swp
