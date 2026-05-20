@@ -7,10 +7,10 @@
 	<key>CFBundleName</key>
 	<string>Lithuanian – Numeric</string>
 	<key>CFBundleVersion</key>
-	<string></string>
-	<key>KLInfo_Lithuanian – Numeric</key>
+	<string>1.0</string>
 	<key>CFBundleIconFile</key>
 	<string>Lithuanian – Numeric</string>
+	<key>KLInfo_Lithuanian – Numeric</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
