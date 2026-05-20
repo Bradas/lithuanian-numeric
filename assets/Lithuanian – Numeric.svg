@@ -1,0 +1,11 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask id="cutout">
+      <rect width="512" height="512" fill="white"/>
+      <text x="260" y="47%" dominant-baseline="central" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro', Helvetica, sans-serif" font-size="380" font-weight="800" fill="black" letter-spacing="-48">LT</text>
+    </mask>
+  </defs>
+
+  <rect width="512" height="512" rx="115" ry="115" fill="#F2F2F7" mask="url(#cutout)"/>
+  <!-- <rect x="6" y="6" width="500" height="500" rx="109" ry="109" fill="none" stroke="black" stroke-width="12"/> -->
+</svg>
