@@ -1,5 +1,7 @@
 # Lietuviškas Mac klaviatūros išdėstymas su skaičių eile
 
+> **Subalansuota tiksliukams – patogi daugumai.**
+
 Windows dominavimo laikų nostalgijos įkvėptas layoutas, kur ą-ž yra ties skaičių eile, `⌥` (Option) grąžina skaičius, o `⌥` `⇧` (Option + Shift) leidžia pasiekti simbolius. Taip, kaip įpratome vaikystėje.
 
 Bet čia mes nesustojame! Su šia klaviatūra nebereikės googlinti įvairių simbolių, nes viskas, ko reikia šiais laikais, yra pasiekiama.
@@ -21,6 +23,8 @@ Bet čia mes nesustojame! Su šia klaviatūra nebereikės googlinti įvairių si
  *	Atsijunkite ir vėl prisijunkite (Log out).
  *	Eikite į System Settings > Keyboard > Input Sources.
  *	Spauskite `+`, paieškoje įveskite Lithuanian ir pasirinkite `Lithuanian – Numeric`.
+
+Kudos Ramūnui Blavaščiūnui ir jo klaviatūrai už įkvėpimą! 
 
 Kurta su meile ir nuomone, tobulinta 10 metų asmeniniame naudojime, o dabar dalinamasi su jumis. Malonaus naudojimo!
 
